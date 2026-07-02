@@ -35,4 +35,4 @@ Abrí `index.html` en tu navegador.
 Con diseño aplicado mediante CSS 
 
 ## BoxModel-y-FlexBox
-Aplicado con class a contenedores padres, para agregarle un navbar centrado perfectamente, agregarle gap y paddings para que no se amontonen elementos de texto e imagenes 
+Aplicado con class a contenedores padres, para agregarle un navbar centrado perfectamente, agregarle gap y paddings para que no se amontonen elementos de texto e imagenes en el index.html y el sobre-mi.html
